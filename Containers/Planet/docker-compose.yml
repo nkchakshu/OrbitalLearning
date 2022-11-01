@@ -1,0 +1,5 @@
+version: "3"
+services:
+   hosp_unit:
+      image: hosp_node:latest
+      network_mode: "host"

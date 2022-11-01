@@ -1,0 +1,151 @@
+2022-08-11T00:55:22.318026+0100 | DEBUG | User checked the root page | Main.py | 44 | read_home | 
+2022-08-11T00:55:25.940241+0100 | DEBUG | User checked the root page | Main.py | 44 | read_home | 
+2022-08-11T00:55:28.870477+0100 | DEBUG | User checked the root page | Main.py | 44 | read_home | 
+2022-08-11T00:55:31.602103+0100 | DEBUG | User checked the root page | Main.py | 44 | read_home | 
+2022-08-11T00:55:32.470318+0100 | DEBUG | User checked the root page | Main.py | 44 | read_home | 
+2022-08-11T00:55:36.029550+0100 | DEBUG | User checked the root page | Main.py | 44 | read_home | 
+2022-08-11T00:55:57.852887+0100 | DEBUG | User checked the root page | Main.py | 44 | read_home | 
+2022-08-11T00:56:07.264691+0100 | DEBUG | User checked the root page | Main.py | 44 | read_home | 
+2022-08-11T00:56:21.822672+0100 | DEBUG | User checked the root page | Main.py | 44 | read_home | 
+2022-08-11T00:56:47.319541+0100 | INFO | User sent some data for predictions | Main.py | 59 | get_prediction | 
+2022-08-11T00:56:47.325495+0100 | DEBUG |    variance_of_wavelet  skewness_of_wavelet  ...  entropy_of_wavelet  retrain_model_
+0                  0.0                  0.3  ...                 0.0               0
+
+[1 rows x 5 columns] | test_ml_api.py | 29 | get_predictions | 
+2022-08-11T00:56:47.355524+0100 | DEBUG | Saved standardising object successfully loaded | test_ml_api.py | 36 | get_predictions | 
+2022-08-11T00:56:47.610106+0100 | DEBUG | Saved ANN model loaded successfully | test_ml_api.py | 55 | get_predictions | 
+2022-08-11T00:56:47.610652+0100 | DEBUG | Incoming data successfully standardised with saved object | test_ml_api.py | 59 | get_predictions | 
+2022-08-11T00:56:47.827604+0100 | DEBUG | Predictions successfully generated for the user | Main.py | 63 | get_prediction | 
+2022-08-11T00:56:47.827930+0100 | DEBUG | [[0.967697]] | Main.py | 64 | get_prediction | 
+2022-08-11T00:56:47.830172+0100 | DEBUG | no training required | Main.py | 65 | get_prediction | 
+2022-08-11T00:56:47.830493+0100 | DEBUG | 0 | Main.py | 66 | get_prediction | 
+2022-08-11T00:56:54.507632+0100 | INFO | User sent some data for predictions | Main.py | 59 | get_prediction | 
+2022-08-11T00:56:54.508788+0100 | DEBUG |    variance_of_wavelet  skewness_of_wavelet  ...  entropy_of_wavelet  retrain_model_
+0                  0.0                  0.3  ...                 0.0               1
+
+[1 rows x 5 columns] | test_ml_api.py | 29 | get_predictions | 
+2022-08-11T00:56:54.521418+0100 | DEBUG | Saved standardising object successfully loaded | test_ml_api.py | 36 | get_predictions | 
+2022-08-11T00:56:54.521765+0100 | DEBUG | excess1_test_ml_api | test_ml_api.py | 41 | get_predictions | 
+2022-08-11T00:56:54.522120+0100 | DEBUG | train_client_1 | Training_file.py | 33 | train_client | 
+2022-08-11T00:56:57.776547+0100 | DEBUG | train_client_2 | Training_file.py | 37 | train_client | 
+2022-08-11T00:56:57.935751+0100 | DEBUG | train_client_3 | Training_file.py | 39 | train_client | 
+2022-08-11T00:56:57.935979+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:56:59.507285+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:56:59.797207+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:00.090147+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:00.375196+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:00.662260+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:00.943146+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:01.229005+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:01.514751+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:01.820411+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:02.120314+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:02.422804+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:02.719622+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:03.072417+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:03.378034+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:03.684091+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:03.986670+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:04.268442+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:04.564177+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:04.854034+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:05.151467+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:05.487695+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:05.883032+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:06.198707+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:06.534287+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:06.828195+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:07.121278+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:07.528347+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:07.834008+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:08.149627+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:08.557563+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:08.858101+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:09.145982+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:09.497509+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:09.798985+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:10.091558+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:10.384842+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:10.677751+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:10.985822+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:11.293185+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:11.598952+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:11.902724+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:12.204836+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:12.490376+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:12.781831+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:13.087276+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:13.395117+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:13.708434+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:14.042981+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:14.420246+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:14.726207+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:15.050020+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:15.346720+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:15.643918+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:15.935230+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:16.220617+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:16.509309+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:16.896687+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:17.180548+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:17.465609+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:17.750661+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:18.036519+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:18.327264+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:18.612029+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:18.897195+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:19.183269+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:19.466073+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:19.749199+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:20.040700+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:20.348640+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:20.648772+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:20.942536+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:21.240476+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:21.536682+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:21.828119+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:22.121038+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:22.418262+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:22.712507+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:23.010167+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:23.312427+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:23.611874+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:23.912139+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:24.209170+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:24.509826+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:24.803585+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:25.102164+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:25.468674+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:25.909723+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:26.237716+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:26.545484+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:26.864175+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:27.176566+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:27.506204+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:27.843920+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:28.149505+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:28.447410+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:28.757005+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:29.067047+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:29.368875+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:29.673011+0100 | DEBUG | run | Training_file.py | 41 | train_client | 
+2022-08-11T00:57:30.027124+0100 | DEBUG | Saved ANN model loaded successfully | test_ml_api.py | 55 | get_predictions | 
+2022-08-11T00:57:30.027591+0100 | DEBUG | Incoming data successfully standardised with saved object | test_ml_api.py | 59 | get_predictions | 
+2022-08-11T00:57:30.084728+0100 | DEBUG | Predictions successfully generated for the user | Main.py | 63 | get_prediction | 
+2022-08-11T00:57:30.084973+0100 | DEBUG | [[0.967697]] | Main.py | 64 | get_prediction | 
+2022-08-11T00:57:30.085298+0100 | DEBUG | 14.535595 | Main.py | 65 | get_prediction | 
+2022-08-11T00:57:30.085889+0100 | DEBUG | ModelWeights(trainable=[array([[ 0.01537593, -0.01646855,  0.04448652, ..., -0.00270947,
+        -0.00263851, -0.01      ],
+       [ 0.01537593, -0.01646855,  0.04448652, ..., -0.00270947,
+        -0.00263851, -0.01      ],
+       [ 0.01537593, -0.01646855,  0.04448652, ..., -0.00270947,
+        -0.00263851, -0.01      ],
+       ...,
+       [ 0.01537593, -0.01646855,  0.04448652, ..., -0.00270947,
+        -0.00263851, -0.01      ],
+       [ 0.01537593, -0.01646855,  0.04448652, ..., -0.00270947,
+        -0.00263851, -0.01      ],
+       [ 0.01537593, -0.01646855,  0.04448652, ..., -0.00270947,
+        -0.00263851, -0.01      ]], dtype=float32), array([ 0.01537593, -0.01646855,  0.04448652, -0.00041737, -0.00732312,
+       -0.00870143, -0.01160399, -0.00270947, -0.00263851, -0.01      ],
+      dtype=float32)], non_trainable=[]) | Main.py | 66 | get_prediction | 

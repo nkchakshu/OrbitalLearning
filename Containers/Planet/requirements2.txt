@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+loguru
+pydantic
+fastapi
+uvicorn
+joblib
+tensorflow_federated
+python-multipart
